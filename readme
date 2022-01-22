@@ -1,10 +1,11 @@
-Instructions for use
+Instructions for use:
 fill in the block with things to do, 
 the red block it the present time, the grey block is the past time and the green block is the future.
 the date at the top is the current date
 the local storage store your respone 
 
-What I struggled with was writing my function to make the color blocks match the proper time
+
+What I struggled with writing functions, to make the color change and for local storage
 
 Langauge used:
 HTML
